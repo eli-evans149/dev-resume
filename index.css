@@ -1,0 +1,12 @@
+:root {
+    --main-dark-color: rgb(70, 70, 173);
+    --main-light-color: rgb(179, 179, 224);
+}
+
+.darkText {
+    color: var(--main-dark-color);
+}
+
+.lightText {
+    color: var(--main-light-color);
+}
